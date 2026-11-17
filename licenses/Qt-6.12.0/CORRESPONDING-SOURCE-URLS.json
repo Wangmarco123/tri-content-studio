@@ -1,0 +1,38 @@
+[
+  {
+    "repository": "pyside/pyside-setup",
+    "version": "6.12.0",
+    "tag": "v6.12.0",
+    "commit": "f50facb83fc3dc5f3240c854668c7a6dd93871b2",
+    "source_tree": "https://github.com/pyside/pyside-setup/tree/f50facb83fc3dc5f3240c854668c7a6dd93871b2",
+    "source_archive": "https://github.com/pyside/pyside-setup/archive/f50facb83fc3dc5f3240c854668c7a6dd93871b2.tar.gz",
+    "tag_archive": "https://github.com/pyside/pyside-setup/archive/refs/tags/v6.12.0.tar.gz"
+  },
+  {
+    "repository": "qt/qtbase",
+    "version": "6.12.0",
+    "tag": "v6.12.0",
+    "commit": "025bdad181de241e81bf853c8a2d7bf3d19261a9",
+    "source_tree": "https://github.com/qt/qtbase/tree/025bdad181de241e81bf853c8a2d7bf3d19261a9",
+    "source_archive": "https://github.com/qt/qtbase/archive/025bdad181de241e81bf853c8a2d7bf3d19261a9.tar.gz",
+    "tag_archive": "https://github.com/qt/qtbase/archive/refs/tags/v6.12.0.tar.gz"
+  },
+  {
+    "repository": "qt/qtsvg",
+    "version": "6.12.0",
+    "tag": "v6.12.0",
+    "commit": "883a58532078d003cefef0a549bfe9f885ce41f5",
+    "source_tree": "https://github.com/qt/qtsvg/tree/883a58532078d003cefef0a549bfe9f885ce41f5",
+    "source_archive": "https://github.com/qt/qtsvg/archive/883a58532078d003cefef0a549bfe9f885ce41f5.tar.gz",
+    "tag_archive": "https://github.com/qt/qtsvg/archive/refs/tags/v6.12.0.tar.gz"
+  },
+  {
+    "repository": "qt/qtimageformats",
+    "version": "6.12.0",
+    "tag": "v6.12.0",
+    "commit": "dc13f2fbff1d579cfb2eb2d9092e3563b4d05b8e",
+    "source_tree": "https://github.com/qt/qtimageformats/tree/dc13f2fbff1d579cfb2eb2d9092e3563b4d05b8e",
+    "source_archive": "https://github.com/qt/qtimageformats/archive/dc13f2fbff1d579cfb2eb2d9092e3563b4d05b8e.tar.gz",
+    "tag_archive": "https://github.com/qt/qtimageformats/archive/refs/tags/v6.12.0.tar.gz"
+  }
+]

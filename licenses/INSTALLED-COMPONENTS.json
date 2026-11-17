@@ -1,0 +1,157 @@
+[
+  {
+    "name": "altgraph",
+    "version": "0.17.5",
+    "license_metadata": "MIT",
+    "source_urls": [
+      "Project-URL: Documentation, https://altgraph.readthedocs.io/en/latest/",
+      "Project-URL: Issue tracker, https://github.com/ronaldoussoren/altgraph/issues",
+      "Project-URL: Repository, https://github.com/ronaldoussoren/altgraph"
+    ]
+  },
+  {
+    "name": "greenlet",
+    "version": "3.5.6",
+    "license_metadata": "MIT AND PSF-2.0",
+    "source_urls": [
+      "Project-URL: Homepage, https://greenlet.readthedocs.io",
+      "Project-URL: Documentation, https://greenlet.readthedocs.io",
+      "Project-URL: Repository, https://github.com/python-greenlet/greenlet",
+      "Project-URL: Issues, https://github.com/python-greenlet/greenlet/issues",
+      "Project-URL: Changelog, https://greenlet.readthedocs.io/en/latest/changes.html"
+    ]
+  },
+  {
+    "name": "packaging",
+    "version": "26.3",
+    "license_metadata": "Apache-2.0 OR BSD-2-Clause",
+    "source_urls": [
+      "Project-URL: Documentation, https://packaging.pypa.io/",
+      "Project-URL: Source, https://github.com/pypa/packaging"
+    ]
+  },
+  {
+    "name": "patchright",
+    "version": "1.64.4",
+    "license_metadata": "Apache-2.0",
+    "source_urls": [
+      "Project-URL: homepage, https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-python",
+      "Project-URL: Release history, https://pypi.org/project/patchright/#history",
+      "Project-URL: Bug Reports, https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-python/issues",
+      "Project-URL: Source Code, https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-python",
+      "Project-URL: Playwright source, https://github.com/microsoft/playwright-python/tree/v1.64.1",
+      "Project-URL: Patchright core, https://www.npmjs.com/package/patchright-core/v/1.64.3"
+    ]
+  },
+  {
+    "name": "pefile",
+    "version": "2024.8.26",
+    "license_metadata": "MIT",
+    "source_urls": []
+  },
+  {
+    "name": "pillow",
+    "version": "13.0.0",
+    "license_metadata": "MIT-CMU",
+    "source_urls": [
+      "Project-URL: Release notes, https://pillow.readthedocs.io/en/stable/releasenotes/index.html",
+      "Project-URL: Changelog, https://github.com/python-pillow/Pillow/releases",
+      "Project-URL: Documentation, https://pillow.readthedocs.io",
+      "Project-URL: Funding, https://tidelift.com/lifter/search/pypi/pillow",
+      "Project-URL: Homepage, https://python-pillow.org",
+      "Project-URL: Mastodon, https://fosstodon.org/@pillow",
+      "Project-URL: Security, https://pillow.readthedocs.io/en/stable/handbook/security.html",
+      "Project-URL: Source, https://github.com/python-pillow/Pillow"
+    ]
+  },
+  {
+    "name": "pyee",
+    "version": "14.0.0",
+    "license_metadata": "MIT",
+    "source_urls": [
+      "Project-URL: Repository, https://github.com/jfhbrook/pyee",
+      "Project-URL: Documentation, https://pyee.readthedocs.io"
+    ]
+  },
+  {
+    "name": "pyinstaller-hooks-contrib",
+    "version": "2026.10",
+    "license_metadata": [],
+    "source_urls": []
+  },
+  {
+    "name": "pyinstaller",
+    "version": "6.22.3",
+    "license_metadata": "GPLv2-or-later with a special exception which allows to use PyInstaller to build and distribute non-free programs (including commercial ones)",
+    "source_urls": [
+      "Project-URL: Homepage, https://pyinstaller.org",
+      "Project-URL: Documentation, https://pyinstaller.org",
+      "Project-URL: Source Code, https://github.com/pyinstaller/pyinstaller",
+      "Project-URL: Release Notes, https://pyinstaller.org/en/stable/CHANGES.html"
+    ]
+  },
+  {
+    "name": "PySide6_Essentials",
+    "version": "6.12.0",
+    "license_metadata": "LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only",
+    "source_urls": [
+      "Project-URL: Homepage, https://pyside.org",
+      "Project-URL: Documentation, https://doc.qt.io/qtforpython",
+      "Project-URL: Repository, https://code.qt.io/cgit/pyside/pyside-setup.git/",
+      "Project-URL: Changelog, https://code.qt.io/cgit/pyside/pyside-setup.git/tree/doc/changelogs",
+      "Project-URL: Tracker, https://qt-project.atlassian.net/browse/PYSIDE"
+    ]
+  },
+  {
+    "name": "pywin32-ctypes",
+    "version": "0.2.3",
+    "license_metadata": "BSD-3-Clause",
+    "source_urls": []
+  },
+  {
+    "name": "segno",
+    "version": "1.6.6",
+    "license_metadata": [],
+    "source_urls": [
+      "Project-URL: Changes, https://github.com/heuer/segno/blob/master/CHANGES.rst",
+      "Project-URL: Documentation, https://segno.readthedocs.io/",
+      "Project-URL: Homepage, https://github.com/heuer/segno/",
+      "Project-URL: Issue tracker, https://github.com/heuer/segno/issues/"
+    ]
+  },
+  {
+    "name": "setuptools",
+    "version": "84.2.1",
+    "license_metadata": "MIT",
+    "source_urls": [
+      "Project-URL: Source, https://github.com/pypa/setuptools",
+      "Project-URL: Documentation, https://setuptools.pypa.io/",
+      "Project-URL: Changelog, https://setuptools.pypa.io/en/stable/history.html"
+    ]
+  },
+  {
+    "name": "shiboken6",
+    "version": "6.12.0",
+    "license_metadata": "LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only",
+    "source_urls": [
+      "Project-URL: Homepage, https://pyside.org",
+      "Project-URL: Documentation, https://doc.qt.io/qtforpython",
+      "Project-URL: Repository, https://code.qt.io/cgit/pyside/pyside-setup.git/",
+      "Project-URL: Changelog, https://code.qt.io/cgit/pyside/pyside-setup.git/tree/doc/changelogs",
+      "Project-URL: Tracker, https://qt-project.atlassian.net/browse/PYSIDE"
+    ]
+  },
+  {
+    "name": "typing_extensions",
+    "version": "4.16.0",
+    "license_metadata": "PSF-2.0",
+    "source_urls": [
+      "Project-URL: Bug Tracker, https://github.com/python/typing_extensions/issues",
+      "Project-URL: Changes, https://github.com/python/typing_extensions/blob/main/CHANGELOG.md",
+      "Project-URL: Documentation, https://typing-extensions.readthedocs.io/",
+      "Project-URL: Home, https://github.com/python/typing_extensions",
+      "Project-URL: Q & A, https://github.com/python/typing/discussions",
+      "Project-URL: Repository, https://github.com/python/typing_extensions"
+    ]
+  }
+]

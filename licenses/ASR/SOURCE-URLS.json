@@ -1,0 +1,22 @@
+[
+  {
+    "folder": "ctranslate2",
+    "url": "https://raw.githubusercontent.com/OpenNMT/CTranslate2/v4.8.1/LICENSE",
+    "file": "LICENSE"
+  },
+  {
+    "folder": "tokenizers",
+    "url": "https://raw.githubusercontent.com/huggingface/tokenizers/v0.23.3/LICENSE",
+    "file": "LICENSE"
+  },
+  {
+    "folder": "model",
+    "url": "https://raw.githubusercontent.com/openai/whisper/main/LICENSE",
+    "file": "LICENSE-Whisper"
+  },
+  {
+    "folder": "CUDA",
+    "url": "https://docs.nvidia.com/cuda/archive/12.4.1/eula/index.html",
+    "file": "LICENSE-CUDA-12.4.1.html"
+  }
+]

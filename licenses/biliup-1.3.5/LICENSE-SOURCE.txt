@@ -1,0 +1,6 @@
+Source: https://github.com/biliup/biliup/blob/v1.3.5/LICENSE
+Git blob SHA-1: c9a98b9d5127920785c0b34f93a65194108136f8
+Retrieved from the upstream tag by the GitHub read-only connector on 2026-11-16.
+The upstream tag README also says: 禁止商业用途，请遵守版权及平台规定
+README source: https://github.com/biliup/biliup/blob/v1.3.5/README.md
+The MIT text and README restriction are preserved without claiming that their commercial-use scope has been resolved.

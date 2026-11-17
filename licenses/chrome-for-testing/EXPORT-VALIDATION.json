@@ -1,0 +1,15 @@
+{
+  "browser_version": "156.0.8078.4",
+  "credits_html_bytes": 5380045,
+  "credits_visible_text_bytes": 13496,
+  "credits_license_blocks": 489,
+  "credits_products": 489,
+  "credits_full_text_bytes": 5282568,
+  "credits_has_full_licenses": true,
+  "terms_title": "Google Chrome 和 ChromeOS 附加服务条款",
+  "terms_modified": "2025-09-30",
+  "terms_body_matches_visible_text": true,
+  "terms_is_network_error": false,
+  "terms_scope": "Chrome/ChromeOS additional terms; incorporates Google general Terms via URL, not a saved copy of those general Terms",
+  "method": "Offline inspection and HTMLParser text extraction of existing exports; no browser run or new network request"
+}

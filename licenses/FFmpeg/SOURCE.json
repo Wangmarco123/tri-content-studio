@@ -1,0 +1,15 @@
+{
+  "version": "N-126168-gb16b5f2a01-20260815",
+  "license_reported_by_binary": "GPL-3.0-or-later",
+  "upstream": "https://ffmpeg.org/",
+  "upstream_source": "https://git.ffmpeg.org/ffmpeg.git",
+  "official_mirror": "https://github.com/FFmpeg/FFmpeg",
+  "binary_reported_commit": "b16b5f2a01",
+  "resolved_upstream_commit": "b16b5f2a01f3c4f8c9a7769d7a35e8b193946d3e",
+  "source_tree": "https://github.com/FFmpeg/FFmpeg/tree/b16b5f2a01f3c4f8c9a7769d7a35e8b193946d3e",
+  "source_archive": "https://github.com/FFmpeg/FFmpeg/archive/b16b5f2a01f3c4f8c9a7769d7a35e8b193946d3e.tar.gz",
+  "source_scope": "FFmpeg upstream commit only; does not include a complete matching source/build archive for every statically linked dependency",
+  "license_text_source": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/GPL-3.0-only.txt",
+  "license_text_note": "Unmodified standard GNU GPL version 3 text; FFmpeg binary grants version 3 or later, as recorded in its own -L output",
+  "version_and_license_method": "Read actual installed executable -version and -L; no media uploaded and no platform or model called"
+}

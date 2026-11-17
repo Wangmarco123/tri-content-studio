@@ -1,0 +1,1902 @@
+[
+  {
+    "repository": "pyside/pyside-setup",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/LGPL-3.0-only.txt",
+    "url": "https://raw.githubusercontent.com/pyside/pyside-setup/v6.12.0/LICENSES/LGPL-3.0-only.txt",
+    "blob_sha": "65c5ca88a67c30becee01c5a8816d964b03862f9",
+    "file": "pyside-setup/LICENSES/LGPL-3.0-only.txt",
+    "sha256": "DA7EABB7BAFDF7D3AE5E9F223AA5BDC1EECE45AC569DC21B3B037520B4464768",
+    "ok": true
+  },
+  {
+    "repository": "pyside/pyside-setup",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/BSD-3-Clause.txt",
+    "url": "https://raw.githubusercontent.com/pyside/pyside-setup/v6.12.0/LICENSES/BSD-3-Clause.txt",
+    "blob_sha": "23e8629f0a7706f95550633a6a3e6df57954ba68",
+    "file": "pyside-setup/LICENSES/BSD-3-Clause.txt",
+    "sha256": "62803A6FCCEEF9091A129D7293D2469EA332B35D30F5E1BC4C628A9F35F3D29C",
+    "ok": true
+  },
+  {
+    "repository": "pyside/pyside-setup",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/GPL-2.0-only.txt",
+    "url": "https://raw.githubusercontent.com/pyside/pyside-setup/v6.12.0/LICENSES/GPL-2.0-only.txt",
+    "blob_sha": "d159169d1050894d3ea3b98e1c965c4058208fe1",
+    "file": "pyside-setup/LICENSES/GPL-2.0-only.txt",
+    "sha256": "8177F97513213526DF2CF6184D8FF986C675AFB514D4E68A404010521B880643",
+    "ok": true
+  },
+  {
+    "repository": "pyside/pyside-setup",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/Apache-2.0.txt",
+    "url": "https://raw.githubusercontent.com/pyside/pyside-setup/v6.12.0/LICENSES/Apache-2.0.txt",
+    "blob_sha": "136d90045663ab0acaeff2a3ecf0013c968de8c9",
+    "file": "pyside-setup/LICENSES/Apache-2.0.txt",
+    "sha256": "E3BA223BB1423F0AAD8C3DFCE0FE3148DB48926D41E6FBC3AFBBF5FF9E1C89CB",
+    "ok": true
+  },
+  {
+    "repository": "pyside/pyside-setup",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/GFDL-1.3-no-invariants-only.txt",
+    "url": "https://raw.githubusercontent.com/pyside/pyside-setup/v6.12.0/LICENSES/GFDL-1.3-no-invariants-only.txt",
+    "blob_sha": "857214dd84593e0bacaac0211d76de0b69f2fa18",
+    "file": "pyside-setup/LICENSES/GFDL-1.3-no-invariants-only.txt",
+    "sha256": "110535522396708CEA37C72A802C5E7E81391139F5F7985631C93EF242B206A4",
+    "ok": true
+  },
+  {
+    "repository": "pyside/pyside-setup",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/GPL-3.0-only.txt",
+    "url": "https://raw.githubusercontent.com/pyside/pyside-setup/v6.12.0/LICENSES/GPL-3.0-only.txt",
+    "blob_sha": "94a9ed024d3859793618152ea559a168bbcbb5e2",
+    "file": "pyside-setup/LICENSES/GPL-3.0-only.txt",
+    "sha256": "8CEB4B9EE5ADEDDE47B31E975C1D90C73AD27B6B165A1DCD80C7C545EB65B903",
+    "ok": true
+  },
+  {
+    "repository": "pyside/pyside-setup",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/LicenseRef-Qt-Commercial.txt",
+    "url": "https://raw.githubusercontent.com/pyside/pyside-setup/v6.12.0/LICENSES/LicenseRef-Qt-Commercial.txt",
+    "blob_sha": "825b1f358b1f42d762112defbf0a193c9d968488",
+    "file": "pyside-setup/LICENSES/LicenseRef-Qt-Commercial.txt",
+    "sha256": "9B1F50AAE6267F9D5E0CEB6775EE86450262C25EC7C0573E151FE5D3F18A4700",
+    "ok": true
+  },
+  {
+    "repository": "pyside/pyside-setup",
+    "ref": "v6.12.0",
+    "source_path": "sources/pyside6/COPYING",
+    "url": "https://raw.githubusercontent.com/pyside/pyside-setup/v6.12.0/sources/pyside6/COPYING",
+    "blob_sha": "9315102f74e1999577459b79cb0490b7dc51cb72",
+    "file": "pyside-setup/sources/pyside6/COPYING",
+    "sha256": "3700B1C56FAE3813DFAAEF1CBA101B6EC108167F36B19F4B2CC8824CC829AA2B",
+    "ok": true
+  },
+  {
+    "repository": "pyside/pyside-setup",
+    "ref": "v6.12.0",
+    "source_path": "sources/shiboken6/COPYING.libshiboken",
+    "url": "https://raw.githubusercontent.com/pyside/pyside-setup/v6.12.0/sources/shiboken6/COPYING.libshiboken",
+    "blob_sha": "36c9a0ec3d56daca95f908f9e11cde44f6b3282e",
+    "file": "pyside-setup/sources/shiboken6/COPYING.libshiboken",
+    "sha256": "902847D35ABAC99283B01C6BDD6F358D361DE6BB1473C931756AF8D68B890B2B",
+    "ok": true
+  },
+  {
+    "repository": "pyside/pyside-setup",
+    "ref": "v6.12.0",
+    "source_path": "sources/shiboken6/COPYING",
+    "url": "https://raw.githubusercontent.com/pyside/pyside-setup/v6.12.0/sources/shiboken6/COPYING",
+    "blob_sha": "4ccd714669d4643009f1018d2a756a3b2a89735c",
+    "file": "pyside-setup/sources/shiboken6/COPYING",
+    "sha256": "9BF82B3636570E28118EE558DDAB479B8F183D3E20327B7685A7479DF52D6493",
+    "ok": true
+  },
+  {
+    "repository": "pyside/pyside-setup",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/Qt-GPL-exception-1.0.txt",
+    "url": "https://raw.githubusercontent.com/pyside/pyside-setup/v6.12.0/LICENSES/Qt-GPL-exception-1.0.txt",
+    "blob_sha": "d0322bf0e4e1d484d35cc6a1d96fa2b65b9d579b",
+    "file": "pyside-setup/LICENSES/Qt-GPL-exception-1.0.txt",
+    "sha256": "40678D338CE53CD93F8B22B281A2ECBCAA3EE65CE60B25FFB0C462B0530846B2",
+    "ok": true
+  },
+  {
+    "repository": "pyside/pyside-setup",
+    "ref": "v6.12.0",
+    "source_path": "sources/shiboken6/COPYING.libsample",
+    "url": "https://raw.githubusercontent.com/pyside/pyside-setup/v6.12.0/sources/shiboken6/COPYING.libsample",
+    "blob_sha": "36c9a0ec3d56daca95f908f9e11cde44f6b3282e",
+    "file": "pyside-setup/sources/shiboken6/COPYING.libsample",
+    "sha256": "902847D35ABAC99283B01C6BDD6F358D361DE6BB1473C931756AF8D68B890B2B",
+    "ok": true
+  },
+  {
+    "repository": "pyside/pyside-setup",
+    "ref": "v6.12.0",
+    "source_path": "sources/shiboken6/libshiboken/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/pyside/pyside-setup/v6.12.0/sources/shiboken6/libshiboken/qt_attribution.json",
+    "blob_sha": "984549b5cadbd7319304a20f8ce4355637dc795c",
+    "file": "pyside-setup/sources/shiboken6/libshiboken/qt_attribution.json",
+    "sha256": "1B643E281A9CCB592CFB5DF7FC457B9B466F35DE6E91CCCE76589E85E047573C",
+    "ok": true
+  },
+  {
+    "repository": "pyside/pyside-setup",
+    "ref": "v6.12.0",
+    "source_path": "tools/license_check.py",
+    "url": "https://raw.githubusercontent.com/pyside/pyside-setup/v6.12.0/tools/license_check.py",
+    "blob_sha": "0f9a193848955092377ab25130f90a697dc50bf4",
+    "file": "pyside-setup/tools/license_check.py",
+    "sha256": "60A8F466A365C20ACAF3E5947F3DB596956E4A8CCAC951D3143B09C385228FBB",
+    "ok": true
+  },
+  {
+    "repository": "pyside/pyside-setup",
+    "ref": "v6.12.0",
+    "source_path": "sources/shiboken6_generator/ApiExtractor/COPYING",
+    "url": "https://raw.githubusercontent.com/pyside/pyside-setup/v6.12.0/sources/shiboken6_generator/ApiExtractor/COPYING",
+    "blob_sha": "4ccd714669d4643009f1018d2a756a3b2a89735c",
+    "file": "pyside-setup/sources/shiboken6_generator/ApiExtractor/COPYING",
+    "sha256": "9BF82B3636570E28118EE558DDAB479B8F183D3E20327B7685A7479DF52D6493",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/AFL-2.1.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/AFL-2.1.txt",
+    "blob_sha": "011d6d489bca75a655649e477efb3cb06e1c8007",
+    "file": "qtbase/LICENSES/AFL-2.1.txt",
+    "sha256": "93BB4F7417AA775BAB9026CC3D0AF28AEB64451FC5A8EC651876785EDD8EAF9B",
+    "ok": true
+  },
+  {
+    "repository": "pyside/pyside-setup",
+    "ref": "v6.12.0",
+    "source_path": "sources/shiboken6/shibokenmodule/files.dir/shibokensupport/signature/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/pyside/pyside-setup/v6.12.0/sources/shiboken6/shibokenmodule/files.dir/shibokensupport/signature/qt_attribution.json",
+    "blob_sha": "b05f19c46a9805b93559f51e9fee5753cacc54fc",
+    "file": "pyside-setup/sources/shiboken6/shibokenmodule/files.dir/shibokensupport/signature/qt_attribution.json",
+    "sha256": "6197E61575B0F1A65FC4A32647E48C6A4897AA104AD9E5E397CEC8FECDCC2F59",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/Apache-2.0.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/Apache-2.0.txt",
+    "blob_sha": "136d90045663ab0acaeff2a3ecf0013c968de8c9",
+    "file": "qtbase/LICENSES/Apache-2.0.txt",
+    "sha256": "E3BA223BB1423F0AAD8C3DFCE0FE3148DB48926D41E6FBC3AFBBF5FF9E1C89CB",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/BSD-2-Clause.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/BSD-2-Clause.txt",
+    "blob_sha": "7e7fb71e0fce53ef1661277c5b4503c6e049a615",
+    "file": "qtbase/LICENSES/BSD-2-Clause.txt",
+    "sha256": "8FDA146749CA071AC9CDCE2E24D25444676EA48D1F9DCCC2B7C15C054B717DB8",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/BSL-1.0.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/BSL-1.0.txt",
+    "blob_sha": "9cc4741747a0f8d7e107a74cae898a69ad25fd21",
+    "file": "qtbase/LICENSES/BSL-1.0.txt",
+    "sha256": "3ABD6471B9A9A08D65CE771143F8E278BB4C1AEB10C1C2D476935A6B049653F5",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/BSD-3-Clause.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/BSD-3-Clause.txt",
+    "blob_sha": "b91bbd89468099ae5c3028f176783976ca538187",
+    "file": "qtbase/LICENSES/BSD-3-Clause.txt",
+    "sha256": "9F0490F18656C6F2435BD14F603EF0C96434D1825615363DCE43ABB42ED1DCCE",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/BSD-4-Clause.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/BSD-4-Clause.txt",
+    "blob_sha": "965aab0ef12f482d55d215fbf8d10595cf2a9618",
+    "file": "qtbase/LICENSES/BSD-4-Clause.txt",
+    "sha256": "83FAA0D205C316CE3EFEAFEE465B6A165914FB29595968C08DC6437021B7B6FD",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/CC0-1.0.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/CC0-1.0.txt",
+    "blob_sha": "0e259d42c996742e9e3cba14c677129b2c1b6311",
+    "file": "qtbase/LICENSES/CC0-1.0.txt",
+    "sha256": "A2010F343487D3F7618AFFE54F789F5487602331C0A8D03F49E9A7C547CF0499",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/Bitstream-Vera.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/Bitstream-Vera.txt",
+    "blob_sha": "df52c1709bea171104d41bf084313ea434858423",
+    "file": "qtbase/LICENSES/Bitstream-Vera.txt",
+    "sha256": "7A083B136E64D064794C3419751E5C7DD10D2F64C108FE5BA161EAE5E5958A93",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/FTL.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/FTL.txt",
+    "blob_sha": "c406d150fa57aaf7a5b950b6cf302daeba1d0bb9",
+    "file": "qtbase/LICENSES/FTL.txt",
+    "sha256": "08C135755DD589039470F1FDBB400DAAABAAA50D0B366D19CEBFF4D22986BAA1",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/GPL-3.0-only.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/GPL-3.0-only.txt",
+    "blob_sha": "94a9ed024d3859793618152ea559a168bbcbb5e2",
+    "file": "qtbase/LICENSES/GPL-3.0-only.txt",
+    "sha256": "8CEB4B9EE5ADEDDE47B31E975C1D90C73AD27B6B165A1DCD80C7C545EB65B903",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/GFDL-1.3-no-invariants-only.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/GFDL-1.3-no-invariants-only.txt",
+    "blob_sha": "857214dd84593e0bacaac0211d76de0b69f2fa18",
+    "file": "qtbase/LICENSES/GFDL-1.3-no-invariants-only.txt",
+    "sha256": "110535522396708CEA37C72A802C5E7E81391139F5F7985631C93EF242B206A4",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/GPL-2.0-only.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/GPL-2.0-only.txt",
+    "blob_sha": "d159169d1050894d3ea3b98e1c965c4058208fe1",
+    "file": "qtbase/LICENSES/GPL-2.0-only.txt",
+    "sha256": "8177F97513213526DF2CF6184D8FF986C675AFB514D4E68A404010521B880643",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/GPL-2.0-or-later.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/GPL-2.0-or-later.txt",
+    "blob_sha": "d159169d1050894d3ea3b98e1c965c4058208fe1",
+    "file": "qtbase/LICENSES/GPL-2.0-or-later.txt",
+    "sha256": "8177F97513213526DF2CF6184D8FF986C675AFB514D4E68A404010521B880643",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/HPND.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/HPND.txt",
+    "blob_sha": "e54a695e16e145af42c1d514edc2652596427115",
+    "file": "qtbase/LICENSES/HPND.txt",
+    "sha256": "67AC968431270291F5E9CD3ED76705E1169F57082EE102093B2543B28CEF63CF",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/IJG.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/IJG.txt",
+    "blob_sha": "eec5341d1c4e9ded532479684d061ffe3f6915b2",
+    "file": "qtbase/LICENSES/IJG.txt",
+    "sha256": "1CB448F5E2E6D3ACA60943F4EEE1A04675628DC0266A074A42BC1560EBC28D61",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/IPL-1.0.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/IPL-1.0.txt",
+    "blob_sha": "b779b1402a4a7c33310aa3c908f53bff5c004be4",
+    "file": "qtbase/LICENSES/IPL-1.0.txt",
+    "sha256": "D5328E672FB1BFF47EE18E890784541453380081CF3771BB7B3C06FC19C7D503",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/LGPL-3.0-only.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/LGPL-3.0-only.txt",
+    "blob_sha": "65c5ca88a67c30becee01c5a8816d964b03862f9",
+    "file": "qtbase/LICENSES/LGPL-3.0-only.txt",
+    "sha256": "DA7EABB7BAFDF7D3AE5E9F223AA5BDC1EECE45AC569DC21B3B037520B4464768",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/LGPL-2.1-or-later.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/LGPL-2.1-or-later.txt",
+    "blob_sha": "04bb156e77d5714dc2ee29bd0a37f16532ec741c",
+    "file": "qtbase/LICENSES/LGPL-2.1-or-later.txt",
+    "sha256": "1CCF09BF2F598308DF4BED9CD8E9657DC5CD0973D2800318F2E241486E2EDF3F",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/Imlib2.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/Imlib2.txt",
+    "blob_sha": "b8430d80a3fcf6f8facb955e2fb0b1b769615794",
+    "file": "qtbase/LICENSES/Imlib2.txt",
+    "sha256": "8846F2BABA1A7F4C36F7CA19A923A000D8A21AFA37CF0FE006F6CE88A6058A89",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/Libpng.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/Libpng.txt",
+    "blob_sha": "81c1c4dd534fdd23ea97bdcfc7dcdc9cd46f3576",
+    "file": "qtbase/LICENSES/Libpng.txt",
+    "sha256": "58FE669792F9B4E0740BF75ECFE90B5326128BB2CE7E27E1C342ABD9DB4D8EA6",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/LicenseRef-BSD-3-Clause-with-PCRE2-Binary-Like-Packages-Exception.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/LicenseRef-BSD-3-Clause-with-PCRE2-Binary-Like-Packages-Exception.txt",
+    "blob_sha": "9f4ae05fa5c02955713964a0f88a6bb67ad03be5",
+    "file": "qtbase/LICENSES/LicenseRef-BSD-3-Clause-with-PCRE2-Binary-Like-Packages-Exception.txt",
+    "sha256": "0526625FCC746A42D3F19A0AB357D3DC8479FDBE3BFD168825498F50215C7A63",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/LicenseRef-ICC-License.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/LicenseRef-ICC-License.txt",
+    "blob_sha": "e25b1d39f1ee489362fe15dae6b01b9522735dc7",
+    "file": "qtbase/LICENSES/LicenseRef-ICC-License.txt",
+    "sha256": "9E34FF47B3A44814E183342E7E198D127A6740E29D20E8381FBA7688DAFC79DD",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/LicenseRef-Lcs-Telegraphics.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/LicenseRef-Lcs-Telegraphics.txt",
+    "blob_sha": "6c03ad2aff71b8e39a282376bbd20179f5befbc5",
+    "file": "qtbase/LICENSES/LicenseRef-Lcs-Telegraphics.txt",
+    "sha256": "C10225EBBD5191BFDD761B0D7752C785F2453AB665D6C454473FB12D254668AA",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/LicenseRef-SHA1-Public-Domain.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/LicenseRef-SHA1-Public-Domain.txt",
+    "blob_sha": "2ebbf9a78ad592c705e5b6e22e20cfb8f1d11abf",
+    "file": "qtbase/LICENSES/LicenseRef-SHA1-Public-Domain.txt",
+    "sha256": "65D86B8EC6B1CD8B8F6E64FD8710274BA00D6A3C520E00DFDCD1C3D2071F3305",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/LicenseRef-Qt-Commercial.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/LicenseRef-Qt-Commercial.txt",
+    "blob_sha": "825b1f358b1f42d762112defbf0a193c9d968488",
+    "file": "qtbase/LICENSES/LicenseRef-Qt-Commercial.txt",
+    "sha256": "9B1F50AAE6267F9D5E0CEB6775EE86450262C25EC7C0573E151FE5D3F18A4700",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/Linux-syscall-note.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/Linux-syscall-note.txt",
+    "blob_sha": "82054e66953e0ebf83c4a61bfc1deaaddf755c80",
+    "file": "qtbase/LICENSES/Linux-syscall-note.txt",
+    "sha256": "3F9E477523FEBAB58DE8B716CCFBCF02E6EF1C8E7728953905E8558637ABE2A9",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/MIT-Khronos-old.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/MIT-Khronos-old.txt",
+    "blob_sha": "06d18a567301e6e35d4a7c5fa7b443cb1ac66ea9",
+    "file": "qtbase/LICENSES/MIT-Khronos-old.txt",
+    "sha256": "3C58021633974F9ED3C3D445A374240A5244FD039628F4D7F6F3E674BC8E6694",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/MIT-open-group.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/MIT-open-group.txt",
+    "blob_sha": "8b6789ae03ca8e0791f422c4ba656faf2b1f0221",
+    "file": "qtbase/LICENSES/MIT-open-group.txt",
+    "sha256": "C55D2AB72D8A4F9E9CD8FBD1379268E575E8CFA16874AFFA5899B75A6D754514",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/MIT.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/MIT.txt",
+    "blob_sha": "bc65af3cbd380a2b5e6b3f37d359d3c51ff0fa71",
+    "file": "qtbase/LICENSES/MIT.txt",
+    "sha256": "D040359701C01996A017D5C515678929CD1B0625E64CB86DB44025FBB6CDF1FC",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/MPL-2.0.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/MPL-2.0.txt",
+    "blob_sha": "d0a1fa1482eea82e19510e7920cbe3a03e41f691",
+    "file": "qtbase/LICENSES/MPL-2.0.txt",
+    "sha256": "3F3D9E0024B1921B067D6F7F88DEB4A60CBE7A78E76C64E3F1D7FC3B779B9D04",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/Qt-GPL-exception-1.0.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/Qt-GPL-exception-1.0.txt",
+    "blob_sha": "d0322bf0e4e1d484d35cc6a1d96fa2b65b9d579b",
+    "file": "qtbase/LICENSES/Qt-GPL-exception-1.0.txt",
+    "sha256": "40678D338CE53CD93F8B22B281A2ECBCAA3EE65CE60B25FFB0C462B0530846B2",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/SPL-1.0.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/SPL-1.0.txt",
+    "blob_sha": "55c5da3447a1e689bafe435dda2768f968f41f2e",
+    "file": "qtbase/LICENSES/SPL-1.0.txt",
+    "sha256": "F58F2F30909982445F97F1A61667261920A7CAEAB21EF5BEA1B740F5B144D141",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/Unicode-3.0.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/Unicode-3.0.txt",
+    "blob_sha": "739715c45cf49d00f3b3832cb353f8ffd385eb22",
+    "file": "qtbase/LICENSES/Unicode-3.0.txt",
+    "sha256": "80BB6294022D8764ADB36A9D65EBB6BD94EFB1865918A71E31E6C247607D7634",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/X11.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/X11.txt",
+    "blob_sha": "e1cd1e01e60d42aa148a95f0fe318cc1a17480f6",
+    "file": "qtbase/LICENSES/X11.txt",
+    "sha256": "E2936C6509784B4F0EC27BAC74182393866FAD9422B29A70E085FF14ABA87193",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/Xerox.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/Xerox.txt",
+    "blob_sha": "481d3b1493661f7f04e6792c6099c2bada95279b",
+    "file": "qtbase/LICENSES/Xerox.txt",
+    "sha256": "B6BC52205D01E10CF43DBB7B8AEC06DCAA3B21D1486E7C9C0BEC329EE8244D8D",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/blessing.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/blessing.txt",
+    "blob_sha": "7a1b711a6b86f81b9b3943340f9f47c5a612f2f0",
+    "file": "qtbase/LICENSES/blessing.txt",
+    "sha256": "592DB1199AAB67AAFE4515DB9808B420DB122083807C5329B2F061951E79ACBE",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/Zlib.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/Zlib.txt",
+    "blob_sha": "9c57e18006ec54be5d52d0bd4ff04cd5432c975f",
+    "file": "qtbase/LICENSES/Zlib.txt",
+    "sha256": "D7E3139972874DC8ABDBBFCE27EC1E6F942B28279DD7D27453630A8B4610E080",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/libpng-2.0.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/LICENSES/libpng-2.0.txt",
+    "blob_sha": "25f298f0fcfd8757bbd9a6386d8fcb2d644cfce9",
+    "file": "qtbase/LICENSES/libpng-2.0.txt",
+    "sha256": "7317E078E2D3B5D7BA5A6159E650945153262B44B76F6700F8E9EDB261C5143E",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "cmake/3rdparty/extra-cmake-modules/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/cmake/3rdparty/extra-cmake-modules/qt_attribution.json",
+    "blob_sha": "687045b07da277e98dd2037ac7df313b5152b406",
+    "file": "qtbase/cmake/3rdparty/extra-cmake-modules/qt_attribution.json",
+    "sha256": "F34F498D6C63A78A882B352FA38C9DD076A59B1696CD6A6F921151A61F2A02E0",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "cmake/3rdparty/kwin/COPYING-CMAKE-SCRIPTS",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/cmake/3rdparty/kwin/COPYING-CMAKE-SCRIPTS",
+    "blob_sha": "4b417765f3a834ce6b0a216f6b6c0fe2d3f0bed5",
+    "file": "qtbase/cmake/3rdparty/kwin/COPYING-CMAKE-SCRIPTS",
+    "sha256": "46CDE7DC11E64C78D650B4851B88F6704B4665FF60F22A1CAF68CEB15E217E5B",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "cmake/3rdparty/kwin/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/cmake/3rdparty/kwin/qt_attribution.json",
+    "blob_sha": "b1554af856712b2cee5b82d92c0241b18305046a",
+    "file": "qtbase/cmake/3rdparty/kwin/qt_attribution.json",
+    "sha256": "BF3A3C09E99F1C9FAB7553EBC4A7548B71DC23FCFDBE6E5DF0FA0E7847C2EFC3",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/D3D12MemoryAllocator/LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/D3D12MemoryAllocator/LICENSE.txt",
+    "blob_sha": "3d5a69a6f5695507ecc9c412c783ca60572bf878",
+    "file": "qtbase/src/3rdparty/D3D12MemoryAllocator/LICENSE.txt",
+    "sha256": "5478A2F36B736E13DD3250B9C71A4AB521BC327FB9D112A92C647BF3E69DDB68",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/D3D12MemoryAllocator/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/D3D12MemoryAllocator/qt_attribution.json",
+    "blob_sha": "41faca527e97d1249664f95905a29c485e637622",
+    "file": "qtbase/src/3rdparty/D3D12MemoryAllocator/qt_attribution.json",
+    "sha256": "AD36F74F9D5BB4C2A5D7BCE97507711452A2089C1F4F673473BF75D17851F381",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/VulkanMemoryAllocator/LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/VulkanMemoryAllocator/LICENSE.txt",
+    "blob_sha": "67b0d01dcc324988001b825f3e89b0d01e8cb6f1",
+    "file": "qtbase/src/3rdparty/VulkanMemoryAllocator/LICENSE.txt",
+    "sha256": "846D97C8B74CCAA92B9AD031140A04363B3B3985F318094552F297B8BDA1C68E",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "cmake/3rdparty/extra-cmake-modules/COPYING-CMAKE-SCRIPTS",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/cmake/3rdparty/extra-cmake-modules/COPYING-CMAKE-SCRIPTS",
+    "blob_sha": "4b417765f3a834ce6b0a216f6b6c0fe2d3f0bed5",
+    "file": "qtbase/cmake/3rdparty/extra-cmake-modules/COPYING-CMAKE-SCRIPTS",
+    "sha256": "46CDE7DC11E64C78D650B4851B88F6704B4665FF60F22A1CAF68CEB15E217E5B",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/VulkanMemoryAllocator/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/VulkanMemoryAllocator/qt_attribution.json",
+    "blob_sha": "605f5c1bfb3afa014e9cf330e6d611aa1cd3c25f",
+    "file": "qtbase/src/3rdparty/VulkanMemoryAllocator/qt_attribution.json",
+    "sha256": "BDADB296DC4D3AADEA5F9EB68F8F4ABAB2E6A9E135FEC084D2914C030AF5BAB2",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/android/LICENSE",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/android/LICENSE",
+    "blob_sha": "c026b6b79a3fec99ed59fc737f8513de3865f145",
+    "file": "qtbase/src/3rdparty/android/LICENSE",
+    "sha256": "4A51CF7F724F51BEDB5FA4F9583A2762F1DB8D05E43A577E2487C7AAB2FDCE18",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/blake2/COPYING",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/blake2/COPYING",
+    "blob_sha": "4133656d1ef98e70b04c05db69e7bc59347f1fa9",
+    "file": "qtbase/src/3rdparty/blake2/COPYING",
+    "sha256": "4103F471877ED0BAE500752C5FCD7ECCA409D4A4A8DC2AD40437DABA60F1A2BC",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/android/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/android/qt_attribution.json",
+    "blob_sha": "9660cb17c79bdb9f80e98674f42b697eaf10a763",
+    "file": "qtbase/src/3rdparty/android/qt_attribution.json",
+    "sha256": "120710D661892CEB44A94556C56998795372334674C79710947282E8279EF415",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/double-conversion/LICENSE",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/double-conversion/LICENSE",
+    "blob_sha": "933718a9ef9dae4cb4afa56e490211760d8a949f",
+    "file": "qtbase/src/3rdparty/double-conversion/LICENSE",
+    "sha256": "4AF93C12062C58058378DE2397DC1C92BBFF9DDFB1D583A01C84127557CE97CA",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/blake2/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/blake2/qt_attribution.json",
+    "blob_sha": "8b14922f2e6bd4e9eb51d1f587d17a53332154ad",
+    "file": "qtbase/src/3rdparty/blake2/qt_attribution.json",
+    "sha256": "BAB552307BDD03ED9A4CF7F8F1397C3D18D4DBEE19EE576033284104785245BE",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/double-conversion/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/double-conversion/qt_attribution.json",
+    "blob_sha": "468a309d6f16c4a3a3de976b0c04812f6670346e",
+    "file": "qtbase/src/3rdparty/double-conversion/qt_attribution.json",
+    "sha256": "4D9C7505A7C12E4E6B57BBEE63AF926C861ABB5515CDF802B8F3491E321146FE",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/easing/LICENSE",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/easing/LICENSE",
+    "blob_sha": "5dc85c4712b3b1db970e09ca67f5af461680345e",
+    "file": "qtbase/src/3rdparty/easing/LICENSE",
+    "sha256": "92FAC99458F1754B73EDF50F9C9983E0EFAA06AD96E2AFD5E538C79F45B4B191",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/easing/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/easing/qt_attribution.json",
+    "blob_sha": "154d7a06038e13d3e1dae7b67240900339763b13",
+    "file": "qtbase/src/3rdparty/easing/qt_attribution.json",
+    "sha256": "77D67A1DB5882BB0B9A1278B014885BEE45A4C059D1DA9F835B6DA5BC4B9C93D",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/emoji-segmenter/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/emoji-segmenter/qt_attribution.json",
+    "blob_sha": "91dca1f4620a6258ff82f8695c26bdd053f8fa45",
+    "file": "qtbase/src/3rdparty/emoji-segmenter/qt_attribution.json",
+    "sha256": "9A980FC0F9E478D2A7E9A571D4CD234C259AAF8E2EA3FB60A0A7CF02CC3C3700",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/forkfd/LICENSE",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/forkfd/LICENSE",
+    "blob_sha": "36ab6129518a7536a4fd5b10c536f30426c0cb02",
+    "file": "qtbase/src/3rdparty/forkfd/LICENSE",
+    "sha256": "D0D683AE18E78FBEF90EB41168FB781920DA2D12BF80704490F0882915C18AE0",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/forkfd/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/forkfd/qt_attribution.json",
+    "blob_sha": "6ba54c18cb66c63e66e9a8342f18d616f3e21fc1",
+    "file": "qtbase/src/3rdparty/forkfd/qt_attribution.json",
+    "sha256": "525FD890017A3966F542DA42A9FF0CA2A0D71BC45F80A4871DE3E0BD0F612612",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/gradle/LICENSE",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/gradle/LICENSE",
+    "blob_sha": "5ab898e679a59275347dbc57d5e9be3fa3875702",
+    "file": "qtbase/src/3rdparty/gradle/LICENSE",
+    "sha256": "CF234C4188D773406F640BF89BE680D9288F40FF96901C70D643FCEA96AD46DF",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/freetype/LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/freetype/LICENSE.txt",
+    "blob_sha": "824f5c61290dec89f70df254990cb2a9e40fd6a9",
+    "file": "qtbase/src/3rdparty/freetype/LICENSE.txt",
+    "sha256": "BF543CDDA11864477B8D2CA2AA9AFC2AAA8F9133461B4D962ED6EC73646256A1",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/freetype/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/freetype/qt_attribution.json",
+    "blob_sha": "427ecb1f7db74bca1bde87962f5f12348342441d",
+    "file": "qtbase/src/3rdparty/freetype/qt_attribution.json",
+    "sha256": "628B68BF60EB3BC1616342BC3545B63BE2392E78BBEBBC4C19F49675DD2AC8A7",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/gradle/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/gradle/qt_attribution.json",
+    "blob_sha": "c5ddd00df2396df5759eaf8241a690b03dcef6b3",
+    "file": "qtbase/src/3rdparty/gradle/qt_attribution.json",
+    "sha256": "06AB470B6B136CBC3486068995FF3C6ABF2B27A999031032121CD0F0602FC487",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/harfbuzz-ng/COPYING",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/harfbuzz-ng/COPYING",
+    "blob_sha": "1dd917e9f2e72167de69e3b5dadbc4e7db417da1",
+    "file": "qtbase/src/3rdparty/harfbuzz-ng/COPYING",
+    "sha256": "BA8F810F2455C2F08E2D56BB49B72F37FCF68F1F4FADE38977CFD7372050AD64",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/harfbuzz-ng/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/harfbuzz-ng/qt_attribution.json",
+    "blob_sha": "f5d5d42ff236a41c32e03fde119ebdee99230b08",
+    "file": "qtbase/src/3rdparty/harfbuzz-ng/qt_attribution.json",
+    "sha256": "B869A7F186E4CFC00CC979E7C4FFD369D823F7A0A94B951A6AEDB9B3278C8419",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/icc/LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/icc/LICENSE.txt",
+    "blob_sha": "e25b1d39f1ee489362fe15dae6b01b9522735dc7",
+    "file": "qtbase/src/3rdparty/icc/LICENSE.txt",
+    "sha256": "9E34FF47B3A44814E183342E7E198D127A6740E29D20E8381FBA7688DAFC79DD",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/icc/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/icc/qt_attribution.json",
+    "blob_sha": "b99b9ce12272d4a73318ce2a98ed1e80c34e459c",
+    "file": "qtbase/src/3rdparty/icc/qt_attribution.json",
+    "sha256": "509DA9BD2B3F769C730AA4627B1080D65F39B0ECD4130111C9E1122E13CD35B5",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/libjpeg/COPYRIGHT.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/libjpeg/COPYRIGHT.txt",
+    "blob_sha": "5085059192a96782d65492b0a6964a7beac69a33",
+    "file": "qtbase/src/3rdparty/libjpeg/COPYRIGHT.txt",
+    "sha256": "E5B349C6A98D997A8D0F5FCFE5CC900B1F76BBC32743674C52A70981498748C0",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/libjpeg/LICENSE",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/libjpeg/LICENSE",
+    "blob_sha": "37a489b245eeb16c9ad8fae217b54f07ca00a65c",
+    "file": "qtbase/src/3rdparty/libjpeg/LICENSE",
+    "sha256": "BA6BCEEBCBA0FDD35488477C2CCA8C4632CE82C74DBFBC87D886CE6FC4433579",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/libjpeg/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/libjpeg/qt_attribution.json",
+    "blob_sha": "82a65bcfd4bdb9a7dcc59496f554cadf0673b341",
+    "file": "qtbase/src/3rdparty/libjpeg/qt_attribution.json",
+    "sha256": "ED7CB7ABDD9124F664ACD26CF552BA821C8CF236C4CD34A6737F202215BD41BC",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/libpng/LICENSE",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/libpng/LICENSE",
+    "blob_sha": "1b765ae9f96abea77d3d9a88c543e3b5f4725813",
+    "file": "qtbase/src/3rdparty/libpng/LICENSE",
+    "sha256": "BDB0A645EA18C60507D0368379B1AC5474B92255FCC2D115E07486A7672BA526",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/libpsl/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/libpsl/qt_attribution.json",
+    "blob_sha": "b283b66973bae9521b6c460885e3b724ae3668f7",
+    "file": "qtbase/src/3rdparty/libpsl/qt_attribution.json",
+    "sha256": "AE227B5F2CF40511FE1A84D4C752F4005917B7EEB44E7C4495B1403C27CC3647",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/libpng/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/libpng/qt_attribution.json",
+    "blob_sha": "1c932936219bb83aa841c3d49459a1e28b7289d7",
+    "file": "qtbase/src/3rdparty/libpng/qt_attribution.json",
+    "sha256": "A43FF8E146C949F7CD14E00BD681F4957E27DEF06ECAFEC55CCC7231C451D3FA",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/libpsl/src/LICENSE.chromium",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/libpsl/src/LICENSE.chromium",
+    "blob_sha": "e29f4ffbe499f0af97f146a333eaa159ddffbb66",
+    "file": "qtbase/src/3rdparty/libpsl/src/LICENSE.chromium",
+    "sha256": "1D7F52747A9169751CDF2641A8299C0098E9ECDF9429296FFD55BDB14C9ED5B3",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/md4/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/md4/qt_attribution.json",
+    "blob_sha": "757c7996ab700adda4ededf6d2b02f1c3d8bbbf9",
+    "file": "qtbase/src/3rdparty/md4/qt_attribution.json",
+    "sha256": "34BDA63A2FCC23C83F2E5364CCD394553B4BAA505B1F79DED9CC2161C56A9B4C",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/md4c/LICENSE.md",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/md4c/LICENSE.md",
+    "blob_sha": "c80b3a95cedc65986c5afaa6d2b895fcbcc6177a",
+    "file": "qtbase/src/3rdparty/md4c/LICENSE.md",
+    "sha256": "D30937367D5413E7EAA218B1640B8946FF76FD34D97152F6979FD96169D5D0FC",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/md4c/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/md4c/qt_attribution.json",
+    "blob_sha": "5e78ab1d10e4ee13f996c6eb95772fcb8e29498c",
+    "file": "qtbase/src/3rdparty/md4c/qt_attribution.json",
+    "sha256": "7B2BC7BE22E4BE2A2984119CE3D0BFC210DDD0D8EF6193D66E8479D4C22AF4BA",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/pcre2/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/pcre2/qt_attribution.json",
+    "blob_sha": "dccf6d1145e91c0eecf66ff77e8e13cdf73fba48",
+    "file": "qtbase/src/3rdparty/pcre2/qt_attribution.json",
+    "sha256": "C65E311B057E3ECB8EE9AEDDD681ADD5AA4484485E265D3A6A8E7967ABC19948",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/pcre2/LICENSE-SLJIT",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/pcre2/LICENSE-SLJIT",
+    "blob_sha": "0aaecaaa28677aa1d3d69025ffab957131eca25d",
+    "file": "qtbase/src/3rdparty/pcre2/LICENSE-SLJIT",
+    "sha256": "5F216505C0F6EA3273CAEC89E766EEF93CDEB7BBB0C429F9360116D7C938FEEB",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/md5/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/md5/qt_attribution.json",
+    "blob_sha": "0c2f5feda8a32df8e058f7b5b272c8033e0180f2",
+    "file": "qtbase/src/3rdparty/md5/qt_attribution.json",
+    "sha256": "20B0F1B17CCD1BD5E8D763B1CDCA4B095B8F0C037644B5EE18154536B7D8425E",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/pcre2/LICENCE.md",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/pcre2/LICENCE.md",
+    "blob_sha": "f6fba35db25ba5a4326fa2f4a86a536a24392b30",
+    "file": "qtbase/src/3rdparty/pcre2/LICENCE.md",
+    "sha256": "197D8A73FFEE0D6B09ADBA2F9C677B5F5AEDE24EDF89258A68E48248D010D811",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/pixman/LICENSE",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/pixman/LICENSE",
+    "blob_sha": "3cb51484f10d1f1377fab8db4e7c1f6211fcdb31",
+    "file": "qtbase/src/3rdparty/pixman/LICENSE",
+    "sha256": "942C4F2A80394D3F53599B8382E9F27349B95C45D92B69B84F26D404F4DD74A5",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/pixman/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/pixman/qt_attribution.json",
+    "blob_sha": "2a273f068115b0350983fcfd4f4fe1fa26f783ac",
+    "file": "qtbase/src/3rdparty/pixman/qt_attribution.json",
+    "sha256": "F1DC159B63BF84A4C9C367E8FF79AA748B63F5FC622D5080C0A7DDD98DDC7AC7",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/rfc6234/LICENSE",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/rfc6234/LICENSE",
+    "blob_sha": "7075960ee2352927c085b342778cad0921e41e59",
+    "file": "qtbase/src/3rdparty/rfc6234/LICENSE",
+    "sha256": "7CCEBD514AAABC86192F957D773CEBF06577C12FE9F25ECD419C6CAC5DA7A14C",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/sha1/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/sha1/qt_attribution.json",
+    "blob_sha": "04933a27005d467e8496a674c75252d1c6b07501",
+    "file": "qtbase/src/3rdparty/sha1/qt_attribution.json",
+    "sha256": "53CAB2C771F7F7FFBF6A58FF759E5846B746E91D98DFE467D5145EDF8CD7D306",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/siphash/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/siphash/qt_attribution.json",
+    "blob_sha": "1687742f03f9a605f3cf0f8c05060d9b4458563d",
+    "file": "qtbase/src/3rdparty/siphash/qt_attribution.json",
+    "sha256": "8614947DFC0CA1D21AAD2F88B4400598262AB8C08AA87C4F7ACC0C2DE6E5619E",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/sha3/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/sha3/qt_attribution.json",
+    "blob_sha": "6c6a44e1b6b4c254cfc30dba6113174ec022d6e4",
+    "file": "qtbase/src/3rdparty/sha3/qt_attribution.json",
+    "sha256": "D904A6C21C150D9CAC693C0806A469480306CB4E5879CC13C994FBADBA71A56E",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/rfc6234/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/rfc6234/qt_attribution.json",
+    "blob_sha": "282590da0baca0829fdc75ebb2027a81b8cdb4e4",
+    "file": "qtbase/src/3rdparty/rfc6234/qt_attribution.json",
+    "sha256": "FA24413BDC5015FC7FC84297FA17D4C8A598F8F7C76B9495A6E6B26A77B4A324",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/sqlite/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/sqlite/qt_attribution.json",
+    "blob_sha": "5c48c3e979143643a83cc0ac763abb1bc90917bb",
+    "file": "qtbase/src/3rdparty/sqlite/qt_attribution.json",
+    "sha256": "FCBA08E23508524B77EE22186A5EF2D35957979FE9E2A604D994C5E9604C8FB9",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/tinycbor/LICENSE",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/tinycbor/LICENSE",
+    "blob_sha": "4aad977ceb5eff86d2e86b6e22c6626e27c2e388",
+    "file": "qtbase/src/3rdparty/tinycbor/LICENSE",
+    "sha256": "3C6BA0B5BFA7830505301FFB336A17B0748E0D61C4D34216E9DC98F10E40395E",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wasm/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wasm/qt_attribution.json",
+    "blob_sha": "4814d94cdf0b961528cd91c1deb85f0635ba30a6",
+    "file": "qtbase/src/3rdparty/wasm/qt_attribution.json",
+    "sha256": "2019D37665BFB2CE7D4931D0BDF7427EA178919399CF37C0FEF14A229144936B",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/tinycbor/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/tinycbor/qt_attribution.json",
+    "blob_sha": "04e566013f3a89bf8f861f8e8bfe8deb92dd2dc0",
+    "file": "qtbase/src/3rdparty/tinycbor/qt_attribution.json",
+    "sha256": "788408509FB7967042640F24BA78B263712E816D886303BA1733F49753D33863",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/appmenu/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/appmenu/qt_attribution.json",
+    "blob_sha": "53f10b090d19c21d5fe407813d560a7e8d156ab7",
+    "file": "qtbase/src/3rdparty/wayland/protocols/appmenu/qt_attribution.json",
+    "sha256": "B7200F7FDFD2223AAECBD9B2EC8E4145EEBE4F0B376FFBCB3859154661FB1095",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/color-management/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/color-management/qt_attribution.json",
+    "blob_sha": "1001cc9b90d225311f3e978e3271577020caddd3",
+    "file": "qtbase/src/3rdparty/wayland/protocols/color-management/qt_attribution.json",
+    "sha256": "6081490578A0A5FF17E450A3F9A05A36A3433DE0832F1B2B497CA3C8EC1F9BA9",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/fractional-scale/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/fractional-scale/qt_attribution.json",
+    "blob_sha": "653a8eb0c1514a66709572ec02353a2f0150620d",
+    "file": "qtbase/src/3rdparty/wayland/protocols/fractional-scale/qt_attribution.json",
+    "sha256": "BF87B7DC5BF42E91C9D98AD2A109D197141AAEBFFE563AB247DD771E0B9B07C8",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/fullscreen-shell/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/fullscreen-shell/qt_attribution.json",
+    "blob_sha": "07926f1642905771c54dba3eb3116bbf2fc80f62",
+    "file": "qtbase/src/3rdparty/wayland/protocols/fullscreen-shell/qt_attribution.json",
+    "sha256": "24EBBA6014034DCF2C9A23A5B1085DC9708EAA81C021DFE51BA3F6B51BA788A7",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/pointer-gestures/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/pointer-gestures/qt_attribution.json",
+    "blob_sha": "9cd44450e740cc32144bd9740016644062fb3368",
+    "file": "qtbase/src/3rdparty/wayland/protocols/pointer-gestures/qt_attribution.json",
+    "sha256": "3C85CE329CCB30C469AA3F3C71596EB915C9CCCD645AC1192D94A8FE548556B7",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/linux-dmabuf/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/linux-dmabuf/qt_attribution.json",
+    "blob_sha": "40badfee3b8bb9b76c33ac697571a333e1d9a84e",
+    "file": "qtbase/src/3rdparty/wayland/protocols/linux-dmabuf/qt_attribution.json",
+    "sha256": "6DD0DBDB4E0FBA8AC2A17700E462F1F2DF53E4FE14A5AC6168CA4BC2C594CEA5",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/presentation-time/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/presentation-time/qt_attribution.json",
+    "blob_sha": "8d54400d3348e4a8069eb2055b90269dd682029a",
+    "file": "qtbase/src/3rdparty/wayland/protocols/presentation-time/qt_attribution.json",
+    "sha256": "C3AF7F51726C7584D5E8AD74A29813D66CAC6A215A9675DA7CFC9A42F15C2D0A",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/pointer-warp/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/pointer-warp/qt_attribution.json",
+    "blob_sha": "83cd73c357034cd07f74bf20160d8c547de88543",
+    "file": "qtbase/src/3rdparty/wayland/protocols/pointer-warp/qt_attribution.json",
+    "sha256": "3EB309ADAE44FE120DAB08DCA8C4DF57A34AC347ECF1764CAFDD7542CD0A0A11",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/scaler/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/scaler/qt_attribution.json",
+    "blob_sha": "4b1f7303b8aa240020e3a28de49348279a0bbc71",
+    "file": "qtbase/src/3rdparty/wayland/protocols/scaler/qt_attribution.json",
+    "sha256": "8B7751412FC26D70F641D6BAD9C6AADD406317CBF17359FFCC58651F58AA2FCA",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/session-management/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/session-management/qt_attribution.json",
+    "blob_sha": "d3df701de4f47a68570cd0b2aa029ecb3583d7d0",
+    "file": "qtbase/src/3rdparty/wayland/protocols/session-management/qt_attribution.json",
+    "sha256": "23B07636C4BBAAE01B94B11041D8664E8B7E21038A6A4860AF0ABED2FF2A4D8A",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/tablet/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/tablet/qt_attribution.json",
+    "blob_sha": "150eb2fbc4c3a052c081779d24f99606ff1ea7c1",
+    "file": "qtbase/src/3rdparty/wayland/protocols/tablet/qt_attribution.json",
+    "sha256": "A46626DBAC8FC1F57D5B34EB077425FC402FC0767B75EC06578E1465502883B5",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/text-input/v1/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/text-input/v1/qt_attribution.json",
+    "blob_sha": "ea0d59237c259a4ae6d41b7ec6c4ea664a9aab6f",
+    "file": "qtbase/src/3rdparty/wayland/protocols/text-input/v1/qt_attribution.json",
+    "sha256": "882AC88020F0ECAEA6D991F7E8D292542C9422592EDE0396C4D217F040EF6A54",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/text-input/v2/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/text-input/v2/qt_attribution.json",
+    "blob_sha": "f0be562662a3563b8a2669a55389b9f74b80a2d2",
+    "file": "qtbase/src/3rdparty/wayland/protocols/text-input/v2/qt_attribution.json",
+    "sha256": "197D9EDCC6FB17D7BC2B230F7061CE0D2EF90FA4291C86E87AE2817E8F2809FE",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/text-input/v3/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/text-input/v3/qt_attribution.json",
+    "blob_sha": "2a9226e3ea4ade700767c297e5b1ca29d9cf2c1c",
+    "file": "qtbase/src/3rdparty/wayland/protocols/text-input/v3/qt_attribution.json",
+    "sha256": "476225D10CB5789D993C38335C6CC442FDC19A8D91F1CEB7A3DDB50414A8E68A",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/viewporter/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/viewporter/qt_attribution.json",
+    "blob_sha": "fbdda2c029459afef0b3f04bf66a775db723b9c7",
+    "file": "qtbase/src/3rdparty/wayland/protocols/viewporter/qt_attribution.json",
+    "sha256": "95139E441967BC289D174078F1CA0485363E8405BD8D06EB9946356C09C0A5E4",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/wayland/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/wayland/qt_attribution.json",
+    "blob_sha": "000ee0d4b2e6445234afc3620233967f6904aeb5",
+    "file": "qtbase/src/3rdparty/wayland/protocols/wayland/qt_attribution.json",
+    "sha256": "D2B263D97853D72128987F55FB912FC197F488DE003A8E4BBC53CAE2549D0E6E",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/wl-eglstream/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/wl-eglstream/qt_attribution.json",
+    "blob_sha": "f11023f26817225ed8bbcfe88da625cd2aee8118",
+    "file": "qtbase/src/3rdparty/wayland/protocols/wl-eglstream/qt_attribution.json",
+    "sha256": "2432510E17446887DECD1FC58770AEEEF060AFF5331A8BFEC7FB668555F3B347",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/wlr-data-control/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/wlr-data-control/qt_attribution.json",
+    "blob_sha": "eea2dde6ef6824f607de3c84bcb154adb42ba7be",
+    "file": "qtbase/src/3rdparty/wayland/protocols/wlr-data-control/qt_attribution.json",
+    "sha256": "433A74149249D01D946D86AA0D88D30BC755523F1A978F640F6142E9C8FA1035",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/wp-primary-selection/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/wp-primary-selection/qt_attribution.json",
+    "blob_sha": "ab305bb6924d7238921e803dcaffe3dd63007d11",
+    "file": "qtbase/src/3rdparty/wayland/protocols/wp-primary-selection/qt_attribution.json",
+    "sha256": "14586C06E09439E9C2B7719766F68E219D0FF0231811E13E44F4587DABF52707",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/xdg-activation/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/xdg-activation/qt_attribution.json",
+    "blob_sha": "1f55ad27b612a53ced8f53bb25f83b537a66f407",
+    "file": "qtbase/src/3rdparty/wayland/protocols/xdg-activation/qt_attribution.json",
+    "sha256": "8F13CFD4C78A2F116D3E674C329D3D211B647D80190E7A95493528CD6DEDBD89",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/xdg-decoration/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/xdg-decoration/qt_attribution.json",
+    "blob_sha": "7e551a5d2003b5f7ce6fce9b7ee9aef8e5ec9ef7",
+    "file": "qtbase/src/3rdparty/wayland/protocols/xdg-decoration/qt_attribution.json",
+    "sha256": "B8D9102FF3C7ECCD840F7D5332D072E41E95EB055A8A9F2E3719A83005879C86",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/xdg-dialog/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/xdg-dialog/qt_attribution.json",
+    "blob_sha": "4a6d959e4a1757b42abb6818574ed10d9459d11e",
+    "file": "qtbase/src/3rdparty/wayland/protocols/xdg-dialog/qt_attribution.json",
+    "sha256": "C7918FB63AD5BE29E9A95DB3464A7832224C7D904D21617CCFC689E6B0AB04C0",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/xdg-output/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/xdg-output/qt_attribution.json",
+    "blob_sha": "04c6bf482f5e88655dcf5421ac9e92f66951c9a1",
+    "file": "qtbase/src/3rdparty/wayland/protocols/xdg-output/qt_attribution.json",
+    "sha256": "C5E4F132DE8D08A75AF02682BBA3A9349A00F49B773E23EF5543648209B76658",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/xdg-foreign/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/xdg-foreign/qt_attribution.json",
+    "blob_sha": "00daedd5b953d2acc6b640f368a9bd67bacc8fe4",
+    "file": "qtbase/src/3rdparty/wayland/protocols/xdg-foreign/qt_attribution.json",
+    "sha256": "0ED6FBDDBA411B647BBE895B6E7A842C2A884905206888C0B4DF6B6CD3BB9F79",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/xdg-shell/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/xdg-shell/qt_attribution.json",
+    "blob_sha": "b47679c71487dda753629b9d73a162a67e5e5610",
+    "file": "qtbase/src/3rdparty/wayland/protocols/xdg-shell/qt_attribution.json",
+    "sha256": "E1367B44FE28FCE2EEE7656CDA75203F4102662BB6AA370B3C9F3EB5A2CC3F82",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/xdg-system-bell/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/xdg-system-bell/qt_attribution.json",
+    "blob_sha": "cf8b0e5bde8bd544da5e8680ea97db4cf9a87b1d",
+    "file": "qtbase/src/3rdparty/wayland/protocols/xdg-system-bell/qt_attribution.json",
+    "sha256": "43A10E6B73A26D9C75E99447F5E731D170047ED2E709878E61EB83F6453CB3DA",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wayland/protocols/xdg-toplevel-icon/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wayland/protocols/xdg-toplevel-icon/qt_attribution.json",
+    "blob_sha": "e0a675b93d330b930bfcd9824b4b501d13e6315c",
+    "file": "qtbase/src/3rdparty/wayland/protocols/xdg-toplevel-icon/qt_attribution.json",
+    "sha256": "2E022951F22A56051A099B9045F4FB0C569DAA896A218D23F47B0DAC3E905C04",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/wintab/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/wintab/qt_attribution.json",
+    "blob_sha": "6c3a0ef6fe687facbc4c1a3fc9d0383fb47e0f8b",
+    "file": "qtbase/src/3rdparty/wintab/qt_attribution.json",
+    "sha256": "B879EA91B719531D45E1CFE33D2241D060A9260200BD91A09ADA074B16063F9C",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/xcb/LICENSE",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/xcb/LICENSE",
+    "blob_sha": "8f4e5c3a72e2e08469fbb7b5074ed2735135022d",
+    "file": "qtbase/src/3rdparty/xcb/LICENSE",
+    "sha256": "82775191BC05F85B40404D77BB69B1EDEAEB4033F48387E9E5EAB4DD67F5D6F1",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/xcb/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/xcb/qt_attribution.json",
+    "blob_sha": "26dc030a3ee96158fc3f4cc74e8c81439dc17aeb",
+    "file": "qtbase/src/3rdparty/xcb/qt_attribution.json",
+    "sha256": "8BAE8861957BC0168D586D24DA6E8E93EDCEB11796811C5F614D211F4674D437",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/zlib/LICENSE",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/zlib/LICENSE",
+    "blob_sha": "9c57e18006ec54be5d52d0bd4ff04cd5432c975f",
+    "file": "qtbase/src/3rdparty/zlib/LICENSE",
+    "sha256": "D7E3139972874DC8ABDBBFCE27EC1E6F942B28279DD7D27453630A8B4610E080",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/zlib/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/3rdparty/zlib/qt_attribution.json",
+    "blob_sha": "d550c40ac61c2ab7acb92429566750ce1157a9fa",
+    "file": "qtbase/src/3rdparty/zlib/qt_attribution.json",
+    "sha256": "0346805E9C4048316DBC7C58D560A20C12482EA0218DE264282212E9619B6D64",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/corelib/global/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/corelib/global/qt_attribution.json",
+    "blob_sha": "22379e261913af86c9ec3fe6837cb5fb7d38b53b",
+    "file": "qtbase/src/corelib/global/qt_attribution.json",
+    "sha256": "64698063A65A1502B986BD61163B5EB9C6BDE87F93FEB28E4EAB43FF07A4F10A",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/corelib/kernel/LICENSE.QEVENTDISPATCHER_CF.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/corelib/kernel/LICENSE.QEVENTDISPATCHER_CF.txt",
+    "blob_sha": "8c08f48528fb29cfe2cd83c9517a00ab1965c086",
+    "file": "qtbase/src/corelib/kernel/LICENSE.QEVENTDISPATCHER_CF.txt",
+    "sha256": "E9E5B9F66D21C0E88A4179525AB39CD8D7EAC9AF78A8404F322C32B0874783D5",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/corelib/mimetypes/3rdparty/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/corelib/mimetypes/3rdparty/qt_attribution.json",
+    "blob_sha": "b30d70417529fef3e12a3cf615e919d748ec7968",
+    "file": "qtbase/src/corelib/mimetypes/3rdparty/qt_attribution.json",
+    "sha256": "329652C93E6B47663115543CFD746CB56B96A98D774D540D58E64614BD9739EB",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/corelib/text/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/corelib/text/qt_attribution.json",
+    "blob_sha": "5bc5e3f58f60febeb87ff12d745210a31496ba77",
+    "file": "qtbase/src/corelib/text/qt_attribution.json",
+    "sha256": "4E23736600BE956E4214849AD8BAAA955441656DB7324713FAB6353C1163B4F5",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/corelib/kernel/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/corelib/kernel/qt_attribution.json",
+    "blob_sha": "3fa6f179dfab05eaed00b17382f6e17647e4519c",
+    "file": "qtbase/src/corelib/kernel/qt_attribution.json",
+    "sha256": "27BB1F28D336F1F8F6D44689F28CB650F0844CC82672E36AE168D0716783FAD5",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/dbus/LICENSE.LIBDBUS-1.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/dbus/LICENSE.LIBDBUS-1.txt",
+    "blob_sha": "ff2c19be4599e53c694dfc2f6570818ec57a4041",
+    "file": "qtbase/src/dbus/LICENSE.LIBDBUS-1.txt",
+    "sha256": "AD90AA08BB1A9B7056AA51E2E215B36630855457CDE5DFFD36AA0FAA7B169F24",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/dbus/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/dbus/qt_attribution.json",
+    "blob_sha": "faffd45685af14d9de98ca387238d189dbd836f3",
+    "file": "qtbase/src/dbus/qt_attribution.json",
+    "sha256": "346532E1FB3BF653BC949408834C305646FC93F96650A2AF9B2171D141C107EE",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/gui/opengl/LICENSE.KHRONOS.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/gui/opengl/LICENSE.KHRONOS.txt",
+    "blob_sha": "63b1e1f94076b2b8b0cc977a23d8430cc3ee4993",
+    "file": "qtbase/src/gui/opengl/LICENSE.KHRONOS.txt",
+    "sha256": "2E484F3C26FF5008C704A3CA9DD809D43F24A004A1ABB6C202660FBFF0D19715",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/gui/opengl/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/gui/opengl/qt_attribution.json",
+    "blob_sha": "e346e262862650816e54d4c61c75e86af0828f76",
+    "file": "qtbase/src/gui/opengl/qt_attribution.json",
+    "sha256": "D05626E02386F22186B385B3CE2CD5A6431B84E2FC552C68F7133E38DA552FC1",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/gui/painting/LICENSE.QIMAGETRANSFORM.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/gui/painting/LICENSE.QIMAGETRANSFORM.txt",
+    "blob_sha": "67c910826a99b2fe3c3e78c022c0aa56b102db1a",
+    "file": "qtbase/src/gui/painting/LICENSE.QIMAGETRANSFORM.txt",
+    "sha256": "46B3CBFA2F2946B93291506351E9BE1DD0A28D2A53260F5AA488ABD36FBECA9D",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/gui/painting/LICENSE.XCONSORTIUM.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/gui/painting/LICENSE.XCONSORTIUM.txt",
+    "blob_sha": "5d98625787e83d0a65b0b2230c7d7e6f682001f7",
+    "file": "qtbase/src/gui/painting/LICENSE.XCONSORTIUM.txt",
+    "sha256": "A216B01291EB38FC1AF93CFCCF1FC67B48D9923612E517C2A695E95B3F03C22C",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/gui/painting/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/gui/painting/qt_attribution.json",
+    "blob_sha": "f238cb56733c712fd2d7a47c858c5c96aeabd9cc",
+    "file": "qtbase/src/gui/painting/qt_attribution.json",
+    "sha256": "8CDDD6C73A885F697261C4D6D60E5CD814A2544FCD407504B52A5EB9B7CC3600",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/gui/rhi/LICENSE.MiniEngine.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/gui/rhi/LICENSE.MiniEngine.txt",
+    "blob_sha": "b8b569d7746d98d07183806fb4af673fca6dfb57",
+    "file": "qtbase/src/gui/rhi/LICENSE.MiniEngine.txt",
+    "sha256": "CF248820BF1178370BB4F1670A59F8748D46BC96D0F64080CD631511C6046409",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/gui/rhi/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/gui/rhi/qt_attribution.json",
+    "blob_sha": "e1094396af24ddbfaeee533b2e50791b1aea4c92",
+    "file": "qtbase/src/gui/rhi/qt_attribution.json",
+    "sha256": "59DF3EFB041ED346AA797602A76EF8D284E84C3CC6ACE30967D6704FC65DBB47",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/gui/text/LICENSE.AGLFN.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/gui/text/LICENSE.AGLFN.txt",
+    "blob_sha": "50abffca157c2b31aabcdc880a008ff8c15197c5",
+    "file": "qtbase/src/gui/text/LICENSE.AGLFN.txt",
+    "sha256": "40818155548FF41C67D3A40EDF355E9658992B292C227F4C1147425CEDC746C6",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/gui/text/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/gui/text/qt_attribution.json",
+    "blob_sha": "b700fe05a0d53eb00676b734ce2cba064feba907",
+    "file": "qtbase/src/gui/text/qt_attribution.json",
+    "sha256": "7960234E4078C69003E4D9DE24C1BF36C9370CFAE8A1797CEB1501C4EEC81E5D",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/gui/util/LICENSE.XSVG.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/gui/util/LICENSE.XSVG.txt",
+    "blob_sha": "9ad49316a65be2048c83c45f1f2b50420d198cbf",
+    "file": "qtbase/src/gui/util/LICENSE.XSVG.txt",
+    "sha256": "3A946598A9F674D44DF764279CA0B85B5D6FABA08F3BC75D8E0FCF6CD729A9BD",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/gui/util/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/gui/util/qt_attribution.json",
+    "blob_sha": "02f9b0b02b380379269d6492f8eb7a6cfc1dd4b0",
+    "file": "qtbase/src/gui/util/qt_attribution.json",
+    "sha256": "95156A38085638F0E14785CDCF95FF06F009ECFDDFD64699366ED94446F164CC",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/gui/vulkan/LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/gui/vulkan/LICENSE.txt",
+    "blob_sha": "21dd179fc9ae5cfbce853b4d40803777f42865f3",
+    "file": "qtbase/src/gui/vulkan/LICENSE.txt",
+    "sha256": "5F618873B0CDD1E84C611C5529212C2524BFC887BDFD7D1F3B568BAD3C649612",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/gui/vulkan/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/gui/vulkan/qt_attribution.json",
+    "blob_sha": "acc66a8210efe3591e1c1212d698723fe47d5571",
+    "file": "qtbase/src/gui/vulkan/qt_attribution.json",
+    "sha256": "B4BEB6AC27B066A6A71408DA116FEA60131C06AC9799C9763FE9CEF28A76E7B9",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/plugins/platforms/cocoa/LICENSE.COCOA.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/plugins/platforms/cocoa/LICENSE.COCOA.txt",
+    "blob_sha": "8c08f48528fb29cfe2cd83c9517a00ab1965c086",
+    "file": "qtbase/src/plugins/platforms/cocoa/LICENSE.COCOA.txt",
+    "sha256": "E9E5B9F66D21C0E88A4179525AB39CD8D7EAC9AF78A8404F322C32B0874783D5",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/plugins/platforms/cocoa/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/plugins/platforms/cocoa/qt_attribution.json",
+    "blob_sha": "927315c38eef74edc16ef6667b995b809f187561",
+    "file": "qtbase/src/plugins/platforms/cocoa/qt_attribution.json",
+    "sha256": "27A435BFEA96CA950F4A5AD6A82BE7FE2A62BB4DB0D8851E7A84FC5DCE0C3FF3",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/testinternal/3rdparty/cmake/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/testinternal/3rdparty/cmake/qt_attribution.json",
+    "blob_sha": "e1cdbcdb9f8179997200c703737654cf9f6aa9c3",
+    "file": "qtbase/src/testinternal/3rdparty/cmake/qt_attribution.json",
+    "sha256": "F194EA33CF9B0D44615A6FA9EB4D45E7796B50CB0A88CDADF5D9B15745BF52F0",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/testlib/3rdparty/catch2/LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/testlib/3rdparty/catch2/LICENSE.txt",
+    "blob_sha": "36b7cd93cdfbac762f5be4c6ce276df2ea6305c2",
+    "file": "qtbase/src/testlib/3rdparty/catch2/LICENSE.txt",
+    "sha256": "C9BFF75738922193E67FA726FA225535870D2AA1059F91452C411736284AD566",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/testinternal/3rdparty/cmake/Copyright.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/testinternal/3rdparty/cmake/Copyright.txt",
+    "blob_sha": "2074109b019445458a65e6cd3935aa24a0878c7c",
+    "file": "qtbase/src/testinternal/3rdparty/cmake/Copyright.txt",
+    "sha256": "0676E30827684487AA0EA8F72F01E9460A6320FA34A2888DF0AD1DD3E8A06EB8",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/testlib/3rdparty/catch2/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/testlib/3rdparty/catch2/qt_attribution.json",
+    "blob_sha": "ad231efd4266ac3910f6c9fd72f5097b5baf13a5",
+    "file": "qtbase/src/testlib/3rdparty/catch2/qt_attribution.json",
+    "sha256": "8149331A9F68C529955173CBFB12E3F0193C2E4DB23AE4117BCD537EE1EACDE0",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/testlib/3rdparty/cycle/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/testlib/3rdparty/cycle/qt_attribution.json",
+    "blob_sha": "6f3af0ac1d68608b0cfe2bd467d3c0d4a9711728",
+    "file": "qtbase/src/testlib/3rdparty/cycle/qt_attribution.json",
+    "sha256": "5B4C5FC477CD61B935983B93EC6D09B39A8F5644EA4FE5AC787C84583F521C7C",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/testlib/3rdparty/linux/LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/testlib/3rdparty/linux/LICENSE.txt",
+    "blob_sha": "c0ff68a2b2a68336b73079916836499348bf283b",
+    "file": "qtbase/src/testlib/3rdparty/linux/LICENSE.txt",
+    "sha256": "ED71CFCA021790F74094E9810F42E31288E7F43CF00C8D9AC8D6F904124BD815",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/testlib/3rdparty/valgrind/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/testlib/3rdparty/valgrind/qt_attribution.json",
+    "blob_sha": "262bc8380b4f34b3fc3fa85388de88ae3ffaa8c2",
+    "file": "qtbase/src/testlib/3rdparty/valgrind/qt_attribution.json",
+    "sha256": "202DAF86588D8CDED6C492D490CEC190E5790796FFF23EC5065B116B78E70FBC",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/testlib/3rdparty/cycle/LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/testlib/3rdparty/cycle/LICENSE.txt",
+    "blob_sha": "c9b44cb8aaebb163e8524d67558696aa965ad0ec",
+    "file": "qtbase/src/testlib/3rdparty/cycle/LICENSE.txt",
+    "sha256": "CB5AEDB296C5246D1F22E9099F925A65146F9F0D6B4EEBBA97FD27A6CDBBAB2D",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/testlib/3rdparty/linux/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/testlib/3rdparty/linux/qt_attribution.json",
+    "blob_sha": "8ee59c0daac05a825034ef6e817312d09de22b9e",
+    "file": "qtbase/src/testlib/3rdparty/linux/qt_attribution.json",
+    "sha256": "A69F1C5519995CB3E77D34A864D9A383B68D0D3304883EE28C6B14A7C4EFBE50",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "src/testlib/3rdparty/valgrind/LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/src/testlib/3rdparty/valgrind/LICENSE.txt",
+    "blob_sha": "d17836a47df3e24b01253119b63c0f9323e7feaa",
+    "file": "qtbase/src/testlib/3rdparty/valgrind/LICENSE.txt",
+    "sha256": "EC72EEBD6326165156787DA828CAAA18386489387AEFAA073C9BD40B8B2A400E",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtsvg",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/BSD-3-Clause.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtsvg/v6.12.0/LICENSES/BSD-3-Clause.txt",
+    "blob_sha": "b91bbd89468099ae5c3028f176783976ca538187",
+    "file": "qtsvg/LICENSES/BSD-3-Clause.txt",
+    "sha256": "9F0490F18656C6F2435BD14F603EF0C96434D1825615363DCE43ABB42ED1DCCE",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "util/gradientgen/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/util/gradientgen/qt_attribution.json",
+    "blob_sha": "c6bd57462490aab12442bd983ee6bbf1e674038c",
+    "file": "qtbase/util/gradientgen/qt_attribution.json",
+    "sha256": "6E87AC5D79AB92110E6E517B2C74E4F4FD15878540E93EEA0300E529D3318572",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtbase",
+    "ref": "v6.12.0",
+    "source_path": "util/gradientgen/LICENSE.WEBGRADIENTS.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtbase/v6.12.0/util/gradientgen/LICENSE.WEBGRADIENTS.txt",
+    "blob_sha": "1a4d527a4d23f06c1fd3afe8650a0055ff62b540",
+    "file": "qtbase/util/gradientgen/LICENSE.WEBGRADIENTS.txt",
+    "sha256": "9BE732E45B638C74F9C0E5248541DD54DC7E8E9A5545DF96B5C4B7C9AC0C68BA",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtsvg",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/GPL-2.0-only.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtsvg/v6.12.0/LICENSES/GPL-2.0-only.txt",
+    "blob_sha": "d159169d1050894d3ea3b98e1c965c4058208fe1",
+    "file": "qtsvg/LICENSES/GPL-2.0-only.txt",
+    "sha256": "8177F97513213526DF2CF6184D8FF986C675AFB514D4E68A404010521B880643",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtsvg",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/GFDL-1.3-no-invariants-only.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtsvg/v6.12.0/LICENSES/GFDL-1.3-no-invariants-only.txt",
+    "blob_sha": "857214dd84593e0bacaac0211d76de0b69f2fa18",
+    "file": "qtsvg/LICENSES/GFDL-1.3-no-invariants-only.txt",
+    "sha256": "110535522396708CEA37C72A802C5E7E81391139F5F7985631C93EF242B206A4",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtsvg",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/HPND-sell-variant.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtsvg/v6.12.0/LICENSES/HPND-sell-variant.txt",
+    "blob_sha": "9ad49316a65be2048c83c45f1f2b50420d198cbf",
+    "file": "qtsvg/LICENSES/HPND-sell-variant.txt",
+    "sha256": "3A946598A9F674D44DF764279CA0B85B5D6FABA08F3BC75D8E0FCF6CD729A9BD",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtsvg",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/GPL-3.0-only.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtsvg/v6.12.0/LICENSES/GPL-3.0-only.txt",
+    "blob_sha": "94a9ed024d3859793618152ea559a168bbcbb5e2",
+    "file": "qtsvg/LICENSES/GPL-3.0-only.txt",
+    "sha256": "8CEB4B9EE5ADEDDE47B31E975C1D90C73AD27B6B165A1DCD80C7C545EB65B903",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtsvg",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/LGPL-3.0-only.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtsvg/v6.12.0/LICENSES/LGPL-3.0-only.txt",
+    "blob_sha": "65c5ca88a67c30becee01c5a8816d964b03862f9",
+    "file": "qtsvg/LICENSES/LGPL-3.0-only.txt",
+    "sha256": "DA7EABB7BAFDF7D3AE5E9F223AA5BDC1EECE45AC569DC21B3B037520B4464768",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtsvg",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/LicenseRef-Qt-Commercial.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtsvg/v6.12.0/LICENSES/LicenseRef-Qt-Commercial.txt",
+    "blob_sha": "825b1f358b1f42d762112defbf0a193c9d968488",
+    "file": "qtsvg/LICENSES/LicenseRef-Qt-Commercial.txt",
+    "sha256": "9B1F50AAE6267F9D5E0CEB6775EE86450262C25EC7C0573E151FE5D3F18A4700",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtimageformats",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/GFDL-1.3-no-invariants-only.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtimageformats/v6.12.0/LICENSES/GFDL-1.3-no-invariants-only.txt",
+    "blob_sha": "857214dd84593e0bacaac0211d76de0b69f2fa18",
+    "file": "qtimageformats/LICENSES/GFDL-1.3-no-invariants-only.txt",
+    "sha256": "110535522396708CEA37C72A802C5E7E81391139F5F7985631C93EF242B206A4",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtimageformats",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/BSD-3-Clause.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtimageformats/v6.12.0/LICENSES/BSD-3-Clause.txt",
+    "blob_sha": "b91bbd89468099ae5c3028f176783976ca538187",
+    "file": "qtimageformats/LICENSES/BSD-3-Clause.txt",
+    "sha256": "9F0490F18656C6F2435BD14F603EF0C96434D1825615363DCE43ABB42ED1DCCE",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtimageformats",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/GPL-3.0-only.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtimageformats/v6.12.0/LICENSES/GPL-3.0-only.txt",
+    "blob_sha": "94a9ed024d3859793618152ea559a168bbcbb5e2",
+    "file": "qtimageformats/LICENSES/GPL-3.0-only.txt",
+    "sha256": "8CEB4B9EE5ADEDDE47B31E975C1D90C73AD27B6B165A1DCD80C7C545EB65B903",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtimageformats",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/LicenseRef-Qt-Commercial.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtimageformats/v6.12.0/LICENSES/LicenseRef-Qt-Commercial.txt",
+    "blob_sha": "825b1f358b1f42d762112defbf0a193c9d968488",
+    "file": "qtimageformats/LICENSES/LicenseRef-Qt-Commercial.txt",
+    "sha256": "9B1F50AAE6267F9D5E0CEB6775EE86450262C25EC7C0573E151FE5D3F18A4700",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtimageformats",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/LGPL-3.0-only.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtimageformats/v6.12.0/LICENSES/LGPL-3.0-only.txt",
+    "blob_sha": "65c5ca88a67c30becee01c5a8816d964b03862f9",
+    "file": "qtimageformats/LICENSES/LGPL-3.0-only.txt",
+    "sha256": "DA7EABB7BAFDF7D3AE5E9F223AA5BDC1EECE45AC569DC21B3B037520B4464768",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtimageformats",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/GPL-2.0-only.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtimageformats/v6.12.0/LICENSES/GPL-2.0-only.txt",
+    "blob_sha": "d159169d1050894d3ea3b98e1c965c4058208fe1",
+    "file": "qtimageformats/LICENSES/GPL-2.0-only.txt",
+    "sha256": "8177F97513213526DF2CF6184D8FF986C675AFB514D4E68A404010521B880643",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtimageformats",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/libtiff/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtimageformats/v6.12.0/src/3rdparty/libtiff/qt_attribution.json",
+    "blob_sha": "2b29cebea418da58fe06593a751057addb3a4d21",
+    "file": "qtimageformats/src/3rdparty/libtiff/qt_attribution.json",
+    "sha256": "DB4BA26120260DF0E74E41E8293AF5CEB7C9CAEDEEDAA397FFF76C51A2140498",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtimageformats",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/libtiff/COPYRIGHT",
+    "url": "https://raw.githubusercontent.com/qt/qtimageformats/v6.12.0/src/3rdparty/libtiff/COPYRIGHT",
+    "blob_sha": "8282186151e224ac83d9990805062ff7b8effa00",
+    "file": "qtimageformats/src/3rdparty/libtiff/COPYRIGHT",
+    "sha256": "FBD6FED7938541D2C809C0826225FC85E551FDBFA8732B10F0C87E0847ACAFD7",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtimageformats",
+    "ref": "v6.12.0",
+    "source_path": "LICENSES/libtiff.txt",
+    "url": "https://raw.githubusercontent.com/qt/qtimageformats/v6.12.0/LICENSES/libtiff.txt",
+    "blob_sha": "8282186151e224ac83d9990805062ff7b8effa00",
+    "file": "qtimageformats/LICENSES/libtiff.txt",
+    "sha256": "FBD6FED7938541D2C809C0826225FC85E551FDBFA8732B10F0C87E0847ACAFD7",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtimageformats",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/libwebp/COPYING",
+    "url": "https://raw.githubusercontent.com/qt/qtimageformats/v6.12.0/src/3rdparty/libwebp/COPYING",
+    "blob_sha": "7a6f99547d4d6b4c5e6d5321acfaeba313e08de3",
+    "file": "qtimageformats/src/3rdparty/libwebp/COPYING",
+    "sha256": "5AEC868F669E384A22372A4E8A1A6CD7D44C64CD451F960CA69CC170D1E13ACF",
+    "ok": true
+  },
+  {
+    "repository": "qt/qtimageformats",
+    "ref": "v6.12.0",
+    "source_path": "src/3rdparty/libwebp/qt_attribution.json",
+    "url": "https://raw.githubusercontent.com/qt/qtimageformats/v6.12.0/src/3rdparty/libwebp/qt_attribution.json",
+    "blob_sha": "8e7008d2a907be5515b463ada36ddc45405ab6c0",
+    "file": "qtimageformats/src/3rdparty/libwebp/qt_attribution.json",
+    "sha256": "F6D3CEAD2EC8D7741E6C6BBB87599A50EF2F5FAC8DA432BB68C02D0332CFD1B8",
+    "ok": true
+  }
+]
